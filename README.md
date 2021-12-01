@@ -30,7 +30,7 @@
 
 </div>
 
-  ## <div align="center">  
+ <div>  
 
   <a href="https://www.linkedin.com/in/diegob1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegobizerra" height="20" width="20" /></a>
 
