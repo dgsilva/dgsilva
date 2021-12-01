@@ -16,9 +16,7 @@
 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilva&layout=compact&langs_count=168&theme=dracula"/>
 
- </div> 
-  
-  <div style="display: inline_block"><br>
+ </div> <div style="display: inline_block"><br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 
