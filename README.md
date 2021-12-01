@@ -12,9 +12,9 @@
 
   <a href="https://github.com/dgsilva">
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegobizerra&show_icons=true&theme=dracula" alt="diegobizerra"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgsilva&show_icons=true&theme=dracula" alt="diegobizerra"/>
 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobizerra&layout=compact&langs_count=168&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilva&layout=compact&langs_count=168&theme=dracula"/>
 
  </div> <div style="display: inline_block"><br>
 
