@@ -19,8 +19,8 @@
  </div> <div style="display: inline_block"><br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-
-  <img src="https://www.flaticon.com/br/icone-gratis/html5_226269" alt="html5"  width="30" height="30"/>
+  
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="java" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 
