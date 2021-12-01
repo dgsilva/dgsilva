@@ -36,18 +36,16 @@
 
   ## <div align="center">  
 
-  <a href="https://linkedin.com/in/vinicius-rodrigues-de-carvalho-2402192a" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniciusrodriguesdecarvalho" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/diegob1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegobizerra" height="20" width="20" /></a>
 
   <a href="https://stackoverflow.com/users/15418699/vinicius-rodrigues-de-carvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="diegobizerra" height="20" width="20" /></a>
 
-  <a href="https://fb.com/profile.php?id=100009043018162" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diegobizerra" height="20" width="20" /></a>
+  <a href="https://www.facebook.com/diego.bizerradasilva" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diegobizerra" height="20" width="20" /></a>
 
-  <a href="https://instagram.com/vinicinn1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegobizerra" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/diegobrj/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegobizerra" height="20" width="20" /></a>
 
   </div>
 
   ![Snake animation](https://github.com/diegobizerra/diegobizerra/blob/output/github-contribution-grid-snake.svg)
-
-[17:30] Vinícius Rodrigues de Carvalho
 
 
