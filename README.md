@@ -4,7 +4,7 @@
 
 - 👯 I'm working PJe
 
-- 🌱 I’m currently learning DevOps - Docker, Kubernetes, Rancher.
+- 🌱 I’m currently learning Java Spring Cloud - Angular.
 
 - 📫 How to reach me **diegorj93@gmail.com** 
 
@@ -19,12 +19,6 @@
  </div> <div style="display: inline_block"><br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
 
