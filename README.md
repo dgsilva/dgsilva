@@ -11,19 +11,19 @@
 <div>
   <a href="https://github.com/dgsilva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgsilva&show_icons=true&theme=dracula" alt="diegobizerra"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilva&layout=compact&langs_count=168&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilva&layout=compact&langs_count=168&theme=dracula"/>
  </div> 
   
-  <div style="display: inline-block"><br>
+<div style="display: inline-block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
 </div>
 
- <div align="center"><br>  
+<div align="center"><br>  
   <a href="https://www.linkedin.com/in/diegob1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegobizerra" height="20" width="20" /></a>
   <a href="https://www.facebook.com/diego.bizerradasilva" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diegobizerra" height="20" width="20" /></a>
   <a href="https://www.instagram.com/diegobrj/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegobizerra" height="20" width="20" /></a>
-  </div>
+  </div>
 
