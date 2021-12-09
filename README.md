@@ -9,7 +9,7 @@
 - 📫 How to reach me **diegorj93@gmail.com** 
 
 <div>
-  <a href="https://github.com/dgsilva">
+  <a href="https://github.com/dgsilva"><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgsilva&show_icons=true&theme=dracula" alt="diegobizerra"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilva&layout=compact&langs_count=168&theme=dracula"/>
  </div> 
